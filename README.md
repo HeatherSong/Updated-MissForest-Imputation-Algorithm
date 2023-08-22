@@ -6,5 +6,5 @@ However, the current package that is available for installation is outdated as i
 
 **References**
 
-[1] https://github.com/epsilon-machine/missingpy/blob/master/README.md
-[2] https://github.com/epsilon-machine/missingpy/tree/master/missingpy
+- [1] https://github.com/epsilon-machine/missingpy/blob/master/README.md
+- [2] https://github.com/epsilon-machine/missingpy/tree/master/missingpy
